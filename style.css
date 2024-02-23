@@ -1,0 +1,18 @@
+.h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.container {
+    max-width: 1280px;
+    border: 1px solid black;
+    margin: 100px auto;
+
+}
+
+.table table-content th {
+    padding: 1px;
+    background-color: black;
+    border: 1px solid black;
+    border-bottom: 0px;
+}
